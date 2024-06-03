@@ -288,6 +288,7 @@ input[type="submit"] {
     border: none;
     cursor: pointer;
     line-height: 1;
+    margin-bottom: 20px;
 }
 
 /* 店舗情報・地図 */

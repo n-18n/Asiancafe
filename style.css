@@ -95,7 +95,7 @@ img {
 }
 
 #news {
-    background-image: url="pexels-daniel-reche-718241-3616946.jpg");
+    background-image: url(pexels-daniel-reche-718241-3616946.jpg);
     
     height: 270px;
     margin-bottom: 40px;

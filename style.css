@@ -84,7 +84,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/pexels-igor-starkov-233202-1660916\ \(1\).jpg);
+    background-image: url(pexels-igor-starkov-233202-1660916\ \(1\).jpg);
     background-blend-mode: soft-light;
     background-color: rgba(255, 255, 255, 0.5);
     min-height: 100vh;
@@ -222,7 +222,7 @@ aside p {
 /* MENU
 ---------------------------*/
 #menu {
-    background-image: url(../images/pexels-pixabay-531829.jpg);
+    background-image: url(pexels-pixabay-531829.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -247,7 +247,7 @@ aside p {
 /* CONTACT
 ---------------------------*/
 #contact {
-    background-image: url(../images/Asian\ Business\ Facebook\ Post.png);
+    background-image: url(Asian\ Business\ Facebook\ Post.png);
     min-height: 100vh;
     background-blend-mode: soft-light;
     background-color: rgba(255, 255, 255, 0.4);
